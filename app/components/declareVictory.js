@@ -14,7 +14,7 @@ export const DeclareVictory = () => {
             logica! Ormai nemmeno la NASA ha più alcun segreto per voi!
           </p>
           <p className="font-normal text-xl mb-4">
-            Eccovi dunque l'ultimo indizio...
+            Eccovi dunque l&apos;ultimo indizio...
           </p>
           <p className="font-medium text-2xl text-blue-700">
             Per concludere il cammino per voi tracciato,
@@ -26,7 +26,7 @@ export const DeclareVictory = () => {
             Tra il Cobra in agguato e lo Sciacallo che sghignazza,
           </p>
           <p className="font-medium text-2xl text-blue-700">
-            giungerai alla fine di quest'avventura pazza!
+            giungerai alla fine di quest&apos;avventura pazza!
           </p>
         </div>
       ) : rotation != 0 ? (
